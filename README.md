@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Aplicativo de Cálculo de IMC
 
 Projeto desenvolvido em **Kotlin com Jetpack Compose**, com o objetivo de calcular o **Índice de Massa Corporal (IMC)** de forma prática e intuitiva, exibindo mensagens e cores personalizadas conforme a faixa de classificação do resultado.
@@ -26,3 +27,6 @@ Com base no resultado, o app exibe uma mensagem de classificação e altera a co
 
 ---
 
+=======
+# android-imc-app
+>>>>>>> cd0b4af84704737d9d8b075a969a2e8aaadc6847
