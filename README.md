@@ -26,6 +26,3 @@ Com base no resultado, o app exibe uma mensagem de classificação e altera a co
 
 ---
 
-=======
-# android-imc-app
->>>>>>> cd0b4af84704737d9d8b075a969a2e8aaadc6847
