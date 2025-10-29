@@ -7,8 +7,7 @@ Projeto desenvolvido em **Kotlin com Jetpack Compose**, com o objetivo de calcul
 
 ## 📱 Capturas de Tela
 
-| Tela Inicial | Resultado |
-|:-------------:|:----------:|
+| Tela Inicial e Resultado|
 | <img width="620" height="937" alt="Captura de tela 2025-10-29 194556" src="https://github.com/user-attachments/assets/39e78f8b-1460-42c3-9cde-07fe06068a7a" /> |
 
 ---
